@@ -1,0 +1,24 @@
+[
+  {
+    "RouteNo": "016",
+    "RouteName": "29TH AVENUE STN\/ARBUTUS        ",
+    "Direction": "WEST",
+    "RouteMap": {
+      "Href": "http:\/\/nb.translink.ca\/geodata\/016.kmz"
+    },
+    "Schedules": [
+      {
+        "Pattern": "WB1",
+        "Destination": "ARBUTUS",
+        "ExpectedLeaveTime": "10:08pm 2016-09-02",
+        "ExpectedCountdown": 10,
+        "ScheduleStatus": "-",
+        "CancelledTrip": false,
+        "CancelledStop": true,
+        "AddedTrip": false,
+        "AddedStop": false,
+        "LastUpdate": "07:16:11 pm"
+      }
+    ]
+  }
+]

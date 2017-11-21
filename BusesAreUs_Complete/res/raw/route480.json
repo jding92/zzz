@@ -1,0 +1,31 @@
+{
+  "RouteNo": "480",
+  "Name": "UBC\/BRIDGEPORT STN          ",
+  "OperatingCompany": "CMBC",
+  "Patterns": [
+    {
+      "PatternNo": "EB1BP",
+      "Destination": "BRIDGEPORT STN",
+      "RouteMap": {
+        "Href": "http:\/\/nb.translink.ca\/geodata\/trip\/480-EB1BP.kmz"
+      },
+      "Direction": "EAST"
+    },
+    {
+      "PatternNo": "WB1P1",
+      "Destination": "UBC",
+      "RouteMap": {
+        "Href": "http:\/\/nb.translink.ca\/geodata\/trip\/480-WB1P1.kmz"
+      },
+      "Direction": "WEST"
+    },
+    {
+      "PatternNo": "WB1P2",
+      "Destination": "UBC",
+      "RouteMap": {
+        "Href": "http:\/\/nb.translink.ca\/geodata\/trip\/480-WB1P2.kmz"
+      },
+      "Direction": "WEST"
+    }
+  ]
+}
